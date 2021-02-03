@@ -20,6 +20,7 @@
 ![icons8-visual-studio-code-2019-48](https://user-images.githubusercontent.com/45057976/106798098-1e1c6d00-6623-11eb-84f8-b4739c736567.png)
 ![icons8-npm-48](https://user-images.githubusercontent.com/45057976/106796712-5ae76480-6621-11eb-8a60-ce9a4f5ed157.png)
 ![icons8-python-48](https://user-images.githubusercontent.com/45057976/106796763-69ce1700-6621-11eb-9dbd-ac9c3d277f6b.png)
-![icons8-django-48](https://user-images.githubusercontent.com/45057976/106796799-73f01580-6621-11eb-8fc0-e03b81e8cef5.png)
-![icons8-postman-api-64](https://user-images.githubusercontent.com/45057976/106796890-93873e00-6621-11eb-9ddd-153ac32148b5.png)
+![icons8-django-48 (1)](https://user-images.githubusercontent.com/45057976/106798349-75224200-6623-11eb-80c4-6de523628e00.png)
 ![Phaser 2D No Glow](https://user-images.githubusercontent.com/45057976/106796995-b1ed3980-6621-11eb-9337-bde9e42665c6.png)
+![icons8-postman-api-64](https://user-images.githubusercontent.com/45057976/106796890-93873e00-6621-11eb-9ddd-153ac32148b5.png)
+

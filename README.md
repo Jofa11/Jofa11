@@ -8,4 +8,4 @@
 - ⚡ Fun fact: My favorite band is The Killers ⚡️ 
 
 #### Frequently Used Technologies
-![Javascript Logo](icons-javascript-48.png)
+![Javascript Logo](/icons-javascript-48.png)

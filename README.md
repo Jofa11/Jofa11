@@ -8,7 +8,7 @@
 - ⚡ Fun fact: My favorite band is The Killers ⚡️ 
 
 #### Frequently Used Technologies
-![Javascript Logo](https://user-images.githubusercontent.com/45057976/106787349-39807b80-6615-11eb-997e-e6f47bf109c0.png)
+![icons8-javascript-96](https://user-images.githubusercontent.com/45057976/106798711-fa0d5b80-6623-11eb-9542-d3fce7585594.png)
 ![React Logo](https://user-images.githubusercontent.com/45057976/106787466-5ae16780-6615-11eb-850c-eb56a6493528.png)
 ![icons8-html-5-48](https://user-images.githubusercontent.com/45057976/106797906-da296800-6622-11eb-9618-0e0a6c7d20eb.png)
 ![icons8-css3-48](https://user-images.githubusercontent.com/45057976/106795192-646fcd00-661f-11eb-84ce-99257052746c.png)

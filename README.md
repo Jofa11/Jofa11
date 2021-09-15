@@ -10,6 +10,7 @@
 #### Frequently Used Technologies
 
 ![icons8-javascript-50](https://user-images.githubusercontent.com/45057976/106798864-2de88100-6624-11eb-916c-f5f76f68ae82.png)
+![icons8-vue-js-48](https://user-images.githubusercontent.com/45057976/133517309-4fc432c2-84fd-4842-8f51-43852274b4d4.png)
 ![React Logo](https://user-images.githubusercontent.com/45057976/106787466-5ae16780-6615-11eb-850c-eb56a6493528.png)
 ![icons8-html-5-48](https://user-images.githubusercontent.com/45057976/106797906-da296800-6622-11eb-9618-0e0a6c7d20eb.png)
 ![icons8-css3-48](https://user-images.githubusercontent.com/45057976/106795192-646fcd00-661f-11eb-84ce-99257052746c.png)

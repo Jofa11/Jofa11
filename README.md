@@ -3,7 +3,7 @@
 #### I am a full stack developer who is building new projects and growing my skills everyday. 
 
 - 🔭 I’m currently working on becoming a rockstar developer. 🎸
-- 🌱 I’m currently building MERN stack applications with Redux
+- 🌱 I’m currently learning all about Vue, and I like it!
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: My favorite band is The Killers ⚡️ 
 
